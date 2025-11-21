@@ -89,4 +89,4 @@ Combine Text: ……另！一！条！测！试！文！本！……
 
 # 修改日志
 
-见[CHANGELOG.md](.\CHANGELOG.md)
+见[CHANGELOG.md](./CHANGELOG.md)
